@@ -11,7 +11,7 @@ For help getting started with Flutter, view our online
 
 This is how the it looks like on android device
 <br/>
-<img src="https://github.com/hi-manshu/FlutterSwipeToDismiss/blob/master/assets/swpetodismiss.jpg" width="40%">.
+<img src="https://github.com/hi-manshu/FlutterSwipeToDismiss/blob/master/assets/swipetodismiss.jpg">.
 
 ### To Run the app in your local machine
 
