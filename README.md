@@ -19,6 +19,10 @@ This is how the it looks like on android device
 1. Refine UI
 1. Test on iOS device
 
+```
+You can do a pull request and merge the nay feature you need
+```
+
 ### To Run the app in your local machine
 
 Clone the repository and user
@@ -32,11 +36,11 @@ r
 
 ### What will you learn,
 
-1. How to make ListView using ListView.Builder()
+1. How to Implement Custom UI based on Image 
 
-1. Implementing SwipeToDismiss
+1. Implementing Seekbar
 
-1. Showing SnackBar on Swipe of the ListView Item
+1. Implementing Canvas,Draw, Exapnd Layout, Dynamic Data.
 ## Built By
 
 * [Himanshu Singh](http://www.github.com/hi-manshu) - Just another guy.
