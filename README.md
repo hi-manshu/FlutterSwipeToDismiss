@@ -2,6 +2,10 @@
 
 A new Flutter Swipe to dismiss App built 
 
+# Swipe to dismiss App
+
+A new Flutter Swipe to dismiss App built 
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
@@ -11,17 +15,7 @@ For help getting started with Flutter, view our online
 
 This is how the it looks like on android device
 <br/>
-<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss0.jpg" height = "300em">.
-<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss1.jpg" height = "300em">.
-
-### To-Do
-1. Add Dynamic Permission for Audio Setting in Android lib dynamically
-1. Refine UI
-1. Test on iOS device
-
-```
-You can do a pull request and merge the nay feature you need
-```
+<img src="https://github.com/hi-manshu/FlutterSwipeToDismiss/blob/master/assets/swipetodismiss.jpg">.
 
 ### To Run the app in your local machine
 
@@ -36,11 +30,12 @@ r
 
 ### What will you learn,
 
-1. How to Implement Custom UI based on Image 
+1. How to make ListView using ListView.Builder()
 
-1. Implementing Seekbar
+1. Implementing SwipeToDismiss
 
-1. Implementing Canvas,Draw, Exapnd Layout, Dynamic Data.
+1. Showing SnackBar on Swipe of the ListView Item
 ## Built By
 
 * [Himanshu Singh](http://www.github.com/hi-manshu) - Just another guy.
+
