@@ -1,6 +1,3 @@
-# Swipe to dismiss App
-
-A new Flutter Swipe to dismiss App built 
 
 # Swipe to dismiss App
 
